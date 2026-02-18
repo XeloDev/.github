@@ -35,7 +35,7 @@ We welcome collaboration, feedback, and contributions. If you are passionate abo
 
 ## Contact
 
-GitHub: [Axo](https://github.com/TheCreateGM) , [Notim](https://github.com/notim66)  
+GitHub: [Axo](https://github.com/TheCreateGM), [Notim](https://github.com/notim66)  
 Email: xelodev4@gmail.com 
 
 XeloDev — Build Smart. Run Fast.
